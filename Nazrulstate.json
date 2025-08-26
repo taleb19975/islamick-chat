@@ -1,2 +1,101 @@
-"সবাই নিজের নামে সব কিন্তু করবেন। সমস্যা নেই
- কিন্তু islamick chat. লেখা টুকু এডিট করিও না🙏🙏🙏"
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261579713518337%22%3A%22UOHi3tlC%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.597Z",
+        "lastAccessed": "2025-08-26T06:19:07.598Z"
+    },
+    {
+        "key": "datr",
+        "value": "NfWsaKfCnWjy2hR_VqS1-lIT",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "sb",
+        "value": "8v2saAv-QNDpknjqhDT22kKs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61579713518337",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "xs",
+        "value": "25%3AGeyME6Kd6NuP9g%3A2%3A1756167698%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "pas",
+        "value": "61579713518337%3AVnC3yKnNK4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B697x424x1.445365309715271",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "fr",
+        "value": "0994inJcQhlj8MaQ0.AWdNXyTe9t_ahPvjEY-d2iLqVOeXMG6WamnW1QY4AGlcSlP6uNQ.BorP3y..AAA.0.0.BorVHX.AWcIprhauOO-iRYOfByzILzsh0Y",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2903%3Btimestamp%3A1756189143",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100416719%3BT%3A29269819",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-26T06:19:07.599Z",
+        "lastAccessed": "2025-08-26T06:19:07.599Z"
+    }
+]
